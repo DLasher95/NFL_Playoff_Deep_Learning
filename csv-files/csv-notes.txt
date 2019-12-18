@@ -1,0 +1,3 @@
+Scoring Defense is all types of scoring allowed.
+Fumbles Lost for Defense means fumbles recovered
+Offensive Sacks = Sacks allowed

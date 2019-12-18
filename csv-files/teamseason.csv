@@ -1,0 +1,241 @@
+SeasonID,TeamName,GamesPlayed,PlayoffSeed,VenueName
+1999,Jaguars,16,1,Alltel Stadium
+1999,Colts,16,2,RCA Dome
+1999,Seahawks,16,3,Seattle Kingdome
+1999,Titans,16,4,Adelphia Coliseum
+1999,Bills,16,5,New Era Field
+1999,Dolphins,16,6,Pro Player Stadium
+1999,Rams,16,1,TWA Dome
+1999,Buccaneers,16,2,Raymond James Stadium
+1999,Redskins,16,3,Jack Kent Cooke Stadium
+1999,Vikings,16,4,Hubert H. Humphrey Metrodome
+1999,Cowboys,16,5,Texas Stadium
+1999,Lions,16,6,Pontiac Silverdome
+2000,Titans,16,1,Adelphia Coliseum
+2000,Raiders,16,2,Network Associates Coliseum
+2000,Dolphins,16,3,Pro Player Stadium
+2000,Ravens,16,4,PSINet Stadium
+2000,Broncos,16,5,Mile High Stadium
+2000,Colts,16,6,RCA Dome
+2000,Giants,16,1,Giants Stadium
+2000,Vikings,16,2,Hubert H. Humphrey Metrodome
+2000,Saints,16,3,Louisiana Superdome
+2000,Eagles,16,4,Veterans Stadium
+2000,Buccaneers,16,5,Raymond James Stadium
+2000,Rams,16,6,TWA Dome
+2001,Steelers,16,1,Heinz Field
+2001,Patriots,16,2,Foxboro Stadium
+2001,Raiders,16,3,Network Associates Coliseum
+2001,Dolphins,16,4,Pro Player Stadium
+2001,Ravens,16,5,PSINet Stadium
+2001,Jets,16,6,Giants Stadium
+2001,Rams,16,1,Dome at America's Center
+2001,Bears,16,2,Soldier Field
+2001,Eagles,16,3,Veterans Stadium
+2001,Packers,16,4,Lambeau Field
+2001,49ers,16,5,3Com Park
+2001,Buccaneers,16,6,Raymond James Stadium
+2002,Raiders,16,1,Network Associates Coliseum
+2002,Titans,16,2,The Coliseum
+2002,Steelers,16,3,Heinz Field
+2002,Jets,16,4,Giants Stadium
+2002,Colts,16,5,RCA Dome
+2002,Browns,16,6,FirstEnergy Stadium
+2002,Eagles,16,1,Veterans Stadium
+2002,Buccaneers,16,2,Raymond James Stadium
+2002,Packers,16,3,Lambeau Field
+2002,49ers,16,4,3Com Park
+2002,Giants,16,5,Giants Stadium
+2002,Falcons,16,6,Georgia Dome
+2003,Patriots,16,1,Gillette Stadium
+2003,Chiefs,16,2,Arrowhead Stadium
+2003,Colts,16,3,RCA Dome
+2003,Ravens,16,4,M&T Bank Stadium
+2003,Titans,16,5,The Coliseum
+2003,Broncos,16,6,Empower Field at Mile High
+2003,Eagles,16,1,Lincoln Financial Field
+2003,Rams,16,2,Edward Jones Dome
+2003,Panthers,16,3,Ericsson Stadium
+2003,Packers,16,4,Lambeau Field
+2003,Seahawks,16,5,CenturyLink Field
+2003,Cowboys,16,6,Texas Stadium
+2004,Steelers,16,1,Heinz Field
+2004,Patriots,16,2,Gillette Stadium
+2004,Colts,16,3,RCA Dome
+2004,Chargers,16,4,Qualcomm Stadium
+2004,Jets,16,5,Giants Stadium
+2004,Broncos,16,6,Invesco Field at Mile High
+2004,Eagles,16,1,Lincoln Financial Field
+2004,Falcons,16,2,Georgia Dome
+2004,Packers,16,3,Lambeau Field
+2004,Seahawks,16,4,Qwest Field
+2004,Rams,16,5,Edward Jones Dome
+2004,Vikings,16,6,Hubert H. Humphrey Metrodome
+2005,Colts,16,1,RCA Dome
+2005,Broncos,16,2,Invesco Field at Mile High
+2005,Bengals,16,3,Paul Brown Stadium
+2005,Patriots,16,4,Gillette Stadium
+2005,Jaguars,16,5,Alltel Stadium
+2005,Steelers,16,6,Heinz Field
+2005,Seahawks,16,1,Qwest Field
+2005,Bears,16,2,Soldier Field
+2005,Buccaneers,16,3,Raymond James Stadium
+2005,Giants,16,4,Giants Stadium
+2005,Panthers,16,5,Bank of America Stadium
+2005,Redskins,16,6,FedExField
+2006,Chargers,16,1,Qualcomm Stadium
+2006,Ravens,16,2,M&T Bank Stadium
+2006,Colts,16,3,RCA Dome
+2006,Patriots,16,4,Gillette Stadium
+2006,Jets,16,5,Giants Stadium
+2006,Chiefs,16,6,Arrowhead Stadium
+2006,Bears,16,1,Soldier Field
+2006,Saints,16,2,Louisiana Superdome
+2006,Eagles,16,3,Lincoln Financial Field
+2006,Seahawks,16,4,Qwest Field
+2006,Cowboys,16,5,Texas Stadium
+2006,Giants,16,6,Giants Stadium
+2007,Patriots,16,1,Gillette Stadium
+2007,Colts,16,2,RCA Dome
+2007,Chargers,16,3,Qualcomm Stadium
+2007,Steelers,16,4,Heinz Field
+2007,Jaguars,16,5,TIAA Bank Field
+2007,Titans,16,6,LP Field
+2007,Cowboys,16,1,Texas Stadium
+2007,Packers,16,2,Lambeau Field
+2007,Seahawks,16,3,Qwest Field
+2007,Buccaneers,16,4,Raymond James Stadium
+2007,Giants,16,5,Giants Stadium
+2007,Redskins,16,6,FedExField
+2008,Titans,16,1,LP Field
+2008,Steelers,16,2,Heinz Field
+2008,Dolphins,16,3,Dolphin Stadium
+2008,Chargers,16,4,Qualcomm Stadium
+2008,Colts,16,5,Lucas Oil Stadium
+2008,Ravens,16,6,M&T Bank Stadium
+2008,Giants,16,1,Giants Stadium
+2008,Panthers,16,2,Bank of America Stadium
+2008,Vikings,16,3,Hubert H. Humphrey Metrodome
+2008,Cardinals,16,4,University of Phoenix Stadium
+2008,Falcons,16,5,Georgia Dome
+2008,Eagles,16,6,Lincoln Financial Field
+2009,Colts,16,1,Lucas Oil Stadium
+2009,Chargers,16,2,Qualcomm Stadium
+2009,Patriots,16,3,Gillette Stadium
+2009,Bengals,16,4,Paul Brown Stadium
+2009,Jets,16,5,Giants Stadium
+2009,Ravens,16,6,M&T Bank Stadium
+2009,Saints,16,1,Louisiana Superdome
+2009,Vikings,16,2,Hubert H. Humphrey Metrodome
+2009,Cowboys,16,3,Cowboys Stadium
+2009,Cardinals,16,4,University of Phoenix Stadium
+2009,Packers,16,5,Lambeau Field
+2009,Eagles,16,6,Lincoln Financial Field
+2010,Patriots,16,1,Gillette Stadium
+2010,Steelers,16,2,Heinz Field
+2010,Colts,16,3,Lucas Oil Stadium
+2010,Chiefs,16,4,Arrowhead Stadium
+2010,Ravens,16,5,M&T Bank Stadium
+2010,Jets,16,6,MetLife Stadium
+2010,Falcons,16,1,Georgia Dome
+2010,Bears,16,2,Soldier Field
+2010,Eagles,16,3,Lincoln Financial Field
+2010,Seahawks,16,4,Qwest Field
+2010,Saints,16,5,Louisiana Superdome
+2010,Packers,16,6,Lambeau Field
+2011,Patriots,16,1,Gillette Stadium
+2011,Ravens,16,2,M&T Bank Stadium
+2011,Texans,16,3,Reliant Stadium
+2011,Broncos,16,4,Sports Authority Field at Mile High
+2011,Steelers,16,5,Heinz Field
+2011,Bengals,16,6,Paul Brown Stadium
+2011,Packers,16,1,Lambeau Field
+2011,49ers,16,2,Candlestick Park
+2011,Saints,16,3,Mercedes-Benz Superdome
+2011,Giants,16,4,MetLife Stadium
+2011,Falcons,16,5,Georgia Dome
+2011,Lions,16,6,Ford Field
+2012,Broncos,16,1,Sports Authority Field at Mile High
+2012,Patriots,16,2,Gillette Stadium
+2012,Texans,16,3,Reliant Stadium
+2012,Ravens,16,4,M&T Bank Stadium
+2012,Colts,16,5,Lucas Oil Stadium
+2012,Bengals,16,6,Paul Brown Stadium
+2012,Falcons,16,1,Georgia Dome
+2012,49ers,16,2,Candlestick Park
+2012,Packers,16,3,Lambeau Field
+2012,Redskins,16,4,FedExField
+2012,Seahawks,16,5,CenturyLink Field
+2012,Vikings,16,6,Hubert H. Humphrey Metrodome
+2013,Broncos,16,1,Sports Authority Field at Mile High
+2013,Patriots,16,2,Gillette Stadium
+2013,Bengals,16,3,Paul Brown Stadium
+2013,Colts,16,4,Lucas Oil Stadium
+2013,Chiefs,16,5,Arrowhead Stadium
+2013,Chargers,16,6,Qualcomm Stadium
+2013,Seahawks,16,1,CenturyLink Field
+2013,Panthers,16,2,Bank of America Stadium
+2013,Eagles,16,3,Lincoln Financial Field
+2013,Packers,16,4,Lambeau Field
+2013,49ers,16,5,Candlestick Park
+2013,Saints,16,6,Mercedes-Benz Superdome
+2014,Patriots,16,1,Gillette Stadium
+2014,Broncos,16,2,Sports Authority Field at Mile High
+2014,Steelers,16,3,Heinz Field
+2014,Colts,16,4,Lucas Oil Stadium
+2014,Bengals,16,5,Paul Brown Stadium
+2014,Ravens,16,6,M&T Bank Stadium
+2014,Seahawks,16,1,CenturyLink Field
+2014,Packers,16,2,Lambeau Field
+2014,Cowboys,16,3,AT&T Stadium
+2014,Panthers,16,4,Bank of America Stadium
+2014,Cardinals,16,5,University of Phoenix Stadium
+2014,Lions,16,6,Ford Field
+2015,Broncos,16,1,Sports Authority Field at Mile High
+2015,Patriots,16,2,Gillette Stadium
+2015,Bengals,16,3,Paul Brown Stadium
+2015,Texans,16,4,NRG Stadium
+2015,Chiefs,16,5,Arrowhead Stadium
+2015,Steelers,16,6,Heinz Field
+2015,Panthers,16,1,Bank of America Stadium
+2015,Cardinals,16,2,University of Phoenix Stadium
+2015,Vikings,16,3,TCF Bank Stadium
+2015,Redskins,16,4,FedExField
+2015,Packers,16,5,Lambeau Field
+2015,Seahawks,16,6,CenturyLink Field
+2016,Patriots,16,1,Gillette Stadium
+2016,Chiefs,16,2,Arrowhead Stadium
+2016,Steelers,16,3,Heinz Field
+2016,Texans,16,4,NRG Stadium
+2016,Raiders,16,5,RingCentral Coliseum
+2016,Dolphins,16,6,Hard Rock Stadium
+2016,Cowboys,16,1,AT&T Stadium
+2016,Falcons,16,2,Georgia Dome
+2016,Seahawks,16,3,CenturyLink Field
+2016,Packers,16,4,Lambeau Field
+2016,Giants,16,5,MetLife Stadium
+2016,Lions,16,6,Ford Field
+2017,Patriots,16,1,Gillette Stadium
+2017,Steelers,16,2,Heinz Field
+2017,Jaguars,16,3,EverBank Field
+2017,Chiefs,16,4,Arrowhead Stadium
+2017,Titans,16,5,Nissan Stadium
+2017,Bills,16,6,New Era Field
+2017,Eagles,16,1,Lincoln Financial Field
+2017,Vikings,16,2,U.S. Bank Stadium
+2017,Rams,16,3,Los Angeles Memorial Coliseum
+2017,Saints,16,4,Mercedes-Benz Superdome
+2017,Panthers,16,5,Bank of America Stadium
+2017,Falcons,16,6,Mercedes-Benz Stadium
+2018,Chiefs,16,1,Arrowhead Stadium
+2018,Patriots,16,2,Gillette Stadium
+2018,Texans,16,3,NRG Stadium
+2018,Ravens,16,4,M&T Bank Stadium
+2018,Chargers,16,5,Dignity Health Sports Park
+2018,Colts,16,6,Lucas Oil Stadium
+2018,Saints,16,1,Mercedes-Benz Superdome
+2018,Rams,16,2,Los Angeles Memorial Coliseum
+2018,Bears,16,3,Soldier Field
+2018,Cowboys,16,4,AT&T Stadium
+2018,Seahawks,16,5,CenturyLink Field
+2018,Eagles,16,6,Lincoln Financial Field

@@ -1,0 +1,12 @@
+@RELATION test
+
+@ATTRIBUTE a continuous
+@ATTRIBUTE b continuous
+@ATTRIBUTE result continuous
+
+@DATA
+-0.1,-1,0
+-0.7,1,0
+-0.2,-1,1
+0.9,0.5,1
+
